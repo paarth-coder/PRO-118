@@ -51,3 +51,4 @@ def predict(text):
             emoji_url = encode_emotions[emotion][1]
 
     return sentiment , emoji_url
+    
